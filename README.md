@@ -10,7 +10,7 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,javascript,git,github" alt="languages" /> </br>
+    <img src="https://skillicons.dev/icons?i=javascript,git,github" alt="languages" /> </br>
     <img src="https://skillicons.dev/icons?i=mongodb,vscode,figma" alt="tools" />
     
   </a>
